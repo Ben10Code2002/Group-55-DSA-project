@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\resultsanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultsanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\resultsanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultsanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\resultform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\resultform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\resultform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\resultform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\resultform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\resultform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\resultform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\dataform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\dataform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\dataform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\dataform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\dataform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\loginandregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\loginandregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\loginandregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\loginandregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\dataform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dataform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\winformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\dlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\bumee\\onedrive\\desktop\\dsa project\\winformsapp1\\winformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FF144B1-7982-4549-83AB-24BD4B084884}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\dLinkedList.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dLinkedList.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\dLinkedList.cs",
+              "RelativeToolTip": "WinFormsApp1\\dLinkedList.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwHAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:19:03.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "stack.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\stack.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\stack.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\stack.cs",
+              "RelativeToolTip": "WinFormsApp1\\stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:47:55.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\BinarySearchTree.cs",
+              "RelativeToolTip": "WinFormsApp1\\BinarySearchTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:06:28.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginAndRegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\LoginAndRegisterForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\LoginAndRegisterForm.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\LoginAndRegisterForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\LoginAndRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:45:22.899Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginAndRegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\LoginAndRegisterForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\LoginAndRegisterForm.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\LoginAndRegisterForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\LoginAndRegisterForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:19:09.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Introduction.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Introduction.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Introduction.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Introduction.cs",
+              "RelativeToolTip": "WinFormsApp1\\Introduction.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:19:33.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Introduction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Introduction.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Introduction.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Introduction.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Introduction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:19:19.339Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AboutUs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AboutUs.cs",
+              "RelativeToolTip": "WinFormsApp1\\AboutUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:20:04.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AboutUs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AboutUs.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:19:53.618Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm1.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DataForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:20:16.06Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataForm1.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm1.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm1.cs",
+              "RelativeToolTip": "WinFormsApp1\\DataForm1.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAcwK4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:20:25.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataForm2.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm2.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm2.cs",
+              "RelativeToolTip": "WinFormsApp1\\DataForm2.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAApwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:21:06.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm2.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DataForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:35:41.287Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataForm3.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm3.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm3.cs",
+              "RelativeToolTip": "WinFormsApp1\\DataForm3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:21:52.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataForm3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataForm3.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\DataForm3.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DataForm3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:21:43.828Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm1.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:18:10.304Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultForm1.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm1.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm1.cs",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:44:31.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm2.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:47:18.105Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultForm2.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm2.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm2.cs",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm2.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwG0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:05:40.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultForm3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm3.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm3.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:08:19.114Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultForm3.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultForm3.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultForm3.cs",
+              "RelativeToolTip": "WinFormsApp1\\ResultForm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:34:42.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\GroupData.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\GroupData.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\GroupData.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\GroupData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:12:33.851Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupData.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\GroupData.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\GroupData.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\GroupData.cs",
+              "RelativeToolTip": "WinFormsApp1\\GroupData.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:27:51.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultsAnz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultsAnz.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultsAnz.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultsAnz.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ResultsAnz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:22:44.19Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultsAnz.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultsAnz.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ResultsAnz.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\ResultsAnz.cs",
+              "RelativeToolTip": "WinFormsApp1\\ResultsAnz.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:32:20.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Final.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Final.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Final.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Final.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Final.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:46:41.124Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Final.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Final.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\Final.cs",
+              "RelativeToolTip": "WinFormsApp1\\Final.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:05:29.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AdminForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\AdminForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:54:44.604Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\AdminForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:52:41.405Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WinFormsApp1\\App.config",
+              "ToolTip": "C:\\Users\\bumee\\OneDrive\\Desktop\\DSA project\\WinFormsApp1\\WinFormsApp1\\App.config",
+              "RelativeToolTip": "WinFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-29T17:36:10.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

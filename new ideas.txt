@@ -1,0 +1,2 @@
+DSA project Ideas :- Customer service center (Queue data structure)
+		for the FREE/BUSY page first get it to a linked list then transfer all.
