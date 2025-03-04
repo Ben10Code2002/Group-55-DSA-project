@@ -32,6 +32,7 @@
             label1 = new Label();
             button1 = new Button();
             label2 = new Label();
+            button2 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -72,6 +73,17 @@
             label2.Text = "Click Here ";
             label2.Click += label2_Click;
             // 
+            // button2
+            // 
+            button2.BackColor = Color.RosyBrown;
+            button2.Location = new Point(982, 32);
+            button2.Name = "button2";
+            button2.Size = new Size(53, 46);
+            button2.TabIndex = 3;
+            button2.Text = "X";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
             // Final
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
@@ -80,13 +92,14 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1075, 633);
+            Controls.Add(button2);
             Controls.Add(label2);
             Controls.Add(button1);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Final";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Final";
+            Text = "\\";
             Load += Final_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -97,5 +110,6 @@
         private Label label1;
         private Button button1;
         private Label label2;
+        private Button button2;
     }
 }
