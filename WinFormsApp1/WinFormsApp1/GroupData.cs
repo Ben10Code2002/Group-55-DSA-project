@@ -79,15 +79,15 @@ namespace WinFormsApp1
         //Worst Case Time Complexity O(nlog n)
         //One of the most efficient searching algorithms
 
-
+        //Merge Sort divides the array in to sub parts
         private void MergeSort(string[] array, int left, int right)
         {
-            if (left < right)
+            if (left < right) //if there is more than one element (left==right)
             {
                 int mid = (left + right) / 2;
-                MergeSort(array, left, mid);
-                MergeSort(array, mid + 1, right);
-                Merge(array, left, mid, right);
+                MergeSort(array, left, mid);// dividing left side array into more sub sections recursively
+                MergeSort(array, mid + 1, right);//dividing right side array into more sub sections recursively
+                Merge(array, left, mid, right); //merging both halves 
             }
         }
 
@@ -107,7 +107,7 @@ namespace WinFormsApp1
             int k = left, iLeft = 0, iRight = 0;
             while (iLeft < n1 && iRight < n2)
             {
-                if (string.Compare(leftArray[iLeft], rightArray[iRight]) <= 0)
+                if (IsSmallerOrEqual(leftArray[iLeft], rightArray[iRight]))
                 {
                     array[k++] = leftArray[iLeft++];
                 }
@@ -115,6 +115,7 @@ namespace WinFormsApp1
                 {
                     array[k++] = rightArray[iRight++];
                 }
+
             }
 
             while (iLeft < n1)
@@ -169,5 +170,20 @@ namespace WinFormsApp1
         {
 
         }
+
+        private bool IsSmallerOrEqual(string str1, string str2)
+        {
+            int len1 = str1.Length, len2 = str2.Length;
+            int minLen = len1 < len2 ? len1 : len2;
+
+            for (int i = 0; i < minLen; i++)
+            {
+                if (str1[i] < str2[i]) return true;
+                if (str1[i] > str2[i]) return false;
+            }
+
+            return len1 <= len2; // If all characters are equal, the shorter string is considered smaller.
+        }
+
     }
 }

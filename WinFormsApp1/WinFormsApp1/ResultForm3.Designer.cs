@@ -47,6 +47,7 @@
             button3 = new Button();
             listBox1 = new ListBox();
             next_bttn = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // NameOut_listbox
@@ -266,6 +267,18 @@
             next_bttn.UseVisualStyleBackColor = false;
             next_bttn.Click += next_bttn_Click;
             // 
+            // button4
+            // 
+            button4.BackColor = Color.DarkGray;
+            button4.ForeColor = SystemColors.ActiveCaptionText;
+            button4.Location = new Point(53, 603);
+            button4.Name = "button4";
+            button4.Size = new Size(408, 46);
+            button4.TabIndex = 19;
+            button4.Text = "Sort Ideas Alphabetically";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
+            // 
             // ResultForm3
             // 
             AutoScaleDimensions = new SizeF(15F, 26F);
@@ -273,6 +286,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1250, 685);
+            Controls.Add(button4);
             Controls.Add(next_bttn);
             Controls.Add(listBox1);
             Controls.Add(button3);
@@ -322,5 +336,6 @@
         private Button button3;
         private ListBox listBox1;
         private Button next_bttn;
+        private Button button4;
     }
 }

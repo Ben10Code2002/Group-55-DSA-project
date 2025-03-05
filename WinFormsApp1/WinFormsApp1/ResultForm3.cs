@@ -28,7 +28,7 @@ namespace WinFormsApp1
             FetchLatestData();
         }
 
-        private void FetchLatestData() 
+        private void FetchLatestData()
         {
             //This is our local host database connection string
             //If needed to check the working operation of the database import the GIT database file to localhost and
@@ -73,9 +73,9 @@ namespace WinFormsApp1
             }
         }
 
-        
+
         //Pushes a new project idea to the stack and updates the listbox.
-       
+
         private void button1_Click(object sender, EventArgs e)
         {
             string projectIdea = textBox1.Text.Trim();
@@ -94,9 +94,9 @@ namespace WinFormsApp1
             textBox1.Clear();
         }
 
-        
+
         //Removes the last added project idea from the stack and updates the listbox.
-        
+
         private void button3_Click(object sender, EventArgs e)
         {
             if (!projectIdeasStack.IsEmpty())
@@ -111,9 +111,9 @@ namespace WinFormsApp1
             }
         }
 
-        
+
         //iterates through the stack and displays all elements in order.
-        
+
         private void UpdateProjectIdeasListBox()
         {
             listBox1.Items.Clear();
@@ -188,6 +188,11 @@ namespace WinFormsApp1
         }
 
         private void ResultForm3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
         {
 
         }
